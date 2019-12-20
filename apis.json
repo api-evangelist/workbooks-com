@@ -1,0 +1,52 @@
+{
+    "name": "Workbooks.com",
+    "description": "<p>Workbooks&#8217; solutions are designed for the needs of small and medium sized businesses providing you with the right tools to make your business more successful. <\/p>\n\n<p>They are fast and easy to use, competitively priced and as there&#8217;s no hardware or software required, Workbooks is quick to implement - you can be up and running in days; what???????s more you can access your data from anywhere with an Internet connection.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/677_logo.png",
+    "tags": [
+        "crm",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/workbooks-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Workbooks.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/677_logo.png",
+            "humanURL": "http:\/\/www.workbooks.com\/workbooks-api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/workbooks-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.workbooks.com\/workbooks-api"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.workbooks.com\/community\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/workbooks"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/workbooks"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/workbooks"
+        }
+    ]
+}
